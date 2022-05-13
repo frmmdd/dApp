@@ -14,7 +14,7 @@ node scripts/sample-script.js
 npx hardhat help
 ```
 
-##Environment Variables
+## Environment Variables
 ALCHEMY_API_KEY_URL=""
 
 

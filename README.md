@@ -13,3 +13,10 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+##Environment Variables
+ALCHEMY_API_KEY_URL=""
+
+
+RINKEBY_PRIVATE_KEY=""
+

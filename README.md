@@ -14,6 +14,8 @@ node scripts/sample-script.js
 npx hardhat help
 ```
 
+ npx hardhat run scripts/deploy.js --network rinkeby
+
 ## Environment Variables
 ALCHEMY_API_KEY_URL=""
 
